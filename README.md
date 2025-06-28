@@ -13,7 +13,7 @@ npm install appwrite
 npm start
 
 
-##project overveiw 
+##project overveiw
 “AI-Based Adaptive MCQ System” — a smart exam platform that adjusts question difficulty in real-time based on user performance. The goal is to make online assessments more personalized, fair, and efficient. Instead of a one-size-fits-all test, this system adapts to the student's knowledge level during the exam, creating a tailored learning and evaluation experience.
 Most traditional online tests follow a static structure where all users receive the same set of questions, regardless of their individual skill levels. This often leads to unfair evaluation — some users find it too easy, while others find it too difficult. My project solves this by introducing adaptive testing logic that mimics human-like decision-making. It aims to support students in identifying their actual proficiency and encourages learning through progression.
 
